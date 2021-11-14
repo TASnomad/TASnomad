@@ -1,6 +1,6 @@
 ### Hi, I'm TASnomad! 👋
 
-Here is a summary on what I was working last few days
+Here is a summary on what I was working the last few days
 <!--START_SECTION:waka-->
 ```text
 TypeScript        14 hrs 27 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.29 % 
